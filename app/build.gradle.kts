@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.practclass_sem7_librerias_audio_dama"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.practclass_sem7_librerias_audio_dama"
